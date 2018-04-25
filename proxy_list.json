@@ -1,0 +1,22 @@
+[
+{"proxy_scheme": "https", "proxy": "https://183.159.89.202:18118"},
+{"proxy_scheme": "http", "proxy": "http://113.121.242.191:808"},
+{"proxy_scheme": "https", "proxy": "https://113.86.221.125:808"},
+{"proxy_scheme": "http", "proxy": "http://61.160.212.181:808"},
+{"proxy_scheme": "https", "proxy": "https://218.72.109.196:18118"},
+{"proxy_scheme": "https", "proxy": "https://121.226.173.45:808"},
+{"proxy_scheme": "http", "proxy": "http://120.24.216.39:60443"},
+{"proxy_scheme": "https", "proxy": "https://222.76.187.2:8118"},
+{"proxy_scheme": "http", "proxy": "http://218.72.111.95:18118"},
+{"proxy_scheme": "https", "proxy": "https://14.118.254.185:6666"},
+{"proxy_scheme": "http", "proxy": "http://183.159.82.98:18118"},
+{"proxy_scheme": "https", "proxy": "https://183.159.85.49:18118"},
+{"proxy_scheme": "http", "proxy": "http://112.248.17.110:61234"},
+{"proxy_scheme": "http", "proxy": "http://183.159.85.57:18118"},
+{"proxy_scheme": "https", "proxy": "https://183.159.87.137:18118"},
+{"proxy_scheme": "https", "proxy": "https://222.185.160.92:6666"},
+{"proxy_scheme": "http", "proxy": "http://114.101.128.69:61234"},
+{"proxy_scheme": "https", "proxy": "https://219.131.174.174:808"},
+{"proxy_scheme": "https", "proxy": "https://123.53.86.234:61234"},
+{"proxy_scheme": "https", "proxy": "https://60.177.226.115:18118"}
+]
