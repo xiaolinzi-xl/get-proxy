@@ -52,10 +52,10 @@ ROBOTSTXT_OBEY = False
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
-#DOWNLOADER_MIDDLEWARES = {
-#    'proxy_example.middlewares.ProxyExampleDownloaderMiddleware': 543,
-#}
-
+DOWNLOADER_MIDDLEWARES = {
+   'proxy_example.middlewares.RandomHttpProxyMiddleware': 745,
+}
+HTTPPROXY_PROXY_LIST_FILE = 'proxy_list.json'
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
 #EXTENSIONS = {
